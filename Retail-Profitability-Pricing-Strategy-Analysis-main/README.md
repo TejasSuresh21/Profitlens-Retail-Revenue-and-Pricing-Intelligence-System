@@ -1,7 +1,7 @@
 # 📊 Retail Profitability & Pricing Strategy Analysis
 
 **Date:** December 12, 2025  
-**Prepared By:** Ravula Preethi  
+**Prepared By:** Tejas Sd  
 **Tools:** SQL, Power BI  
 
 ---
