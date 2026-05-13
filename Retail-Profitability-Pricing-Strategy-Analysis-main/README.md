@@ -1,6 +1,6 @@
 # 📊 Retail Profitability & Pricing Strategy Analysis
 
-**Date:** December 12, 2025  
+**Date:** April, 2026 
 **Prepared By:** Tejas Sd  
 **Tools:** SQL, Power BI  
 
